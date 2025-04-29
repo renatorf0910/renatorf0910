@@ -18,7 +18,8 @@
   - Python / Django / Flask
   - MySQL / PostgreSQL / MongoDB
   - React JS / JavaScript
-  - Git / SCRUM / Docker
+  - Git / SCRUM / Docker / Zabbix / Wazuh / Prometheus / Grafana
+  - Ubuntu/Linux 
 - **Conhecimento**:
   - C#
   - Java
