@@ -4,6 +4,7 @@
   <img align="center" alt="RPython" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="RJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="RReact" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="RTS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
   <img align="center" alt="RJava" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="RCSharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="RMySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
@@ -17,7 +18,7 @@
 - **Dominio**:
   - Python / Django / Flask
   - MySQL / PostgreSQL / MongoDB
-  - React JS / JavaScript
+  - React JS / JavaScript / Typescript
   - Git / SCRUM / Docker / Zabbix / Wazuh / Prometheus / Grafana
   - Ubuntu/Linux 
 - **Conhecimento**:
