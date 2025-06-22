@@ -25,6 +25,7 @@
   - C#
   - Java
   - AWS
+  - Angular 
 
 ----
 
