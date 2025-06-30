@@ -22,6 +22,7 @@
   - Git / SCRUM / Docker / Zabbix / Wazuh / Prometheus / Grafana
   - Ubuntu/Linux 
 - **Conhecimento**:
+  - Devops 
   - C#
   - Java
   - AWS
