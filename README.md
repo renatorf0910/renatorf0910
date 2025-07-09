@@ -19,7 +19,7 @@
   - Python / Django / Flask
   - MySQL / PostgreSQL / MongoDB
   - React JS / JavaScript / Typescript
-  - Git / SCRUM / Docker / Zabbix / Wazuh / Prometheus / Grafana
+  - Git / SCRUM / Docker / Zabbix / Wazuh / Prometheus / Grafana / Consul 
   - Ubuntu/Linux 
 - **Conhecimento**:
   - Devops 
