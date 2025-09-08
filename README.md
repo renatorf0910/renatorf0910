@@ -16,14 +16,13 @@
 
 ### 🚀 **Stacks**
 - **Dominio**:
-  - Python / Django / Flask
+  - C# / .NET / Python / Django / Flask
   - MySQL / PostgreSQL / MongoDB
   - React JS / JavaScript / Typescript
   - Git / SCRUM / Docker / Zabbix / Wazuh / Prometheus / Grafana / Consul / Virtualizadores / Hipervisor 
   - Ubuntu/Linux 
 - **Conhecimento**:
   - Devops 
-  - C#
   - Java
   - AWS
   - Angular 
