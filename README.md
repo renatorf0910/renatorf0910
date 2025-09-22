@@ -27,12 +27,6 @@
   - AWS
   - Angular 
 
-----
-
-<span>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=renatorf0910&show_icons=true&theme=react" />
-</span>
-
 
 ### 📲 **Redes Sociais e Contatos**
 - [LinkedIn](https://linkedin.com/in/renatorf0910)
