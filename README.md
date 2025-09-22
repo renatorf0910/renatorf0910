@@ -32,9 +32,6 @@
 <span>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=renatorf0910&show_icons=true&theme=react" />
 </span>
-<span>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renatorf0910&layout=compact&theme=react" />
-</span>
 
 
 ### 📲 **Redes Sociais e Contatos**
