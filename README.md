@@ -10,6 +10,7 @@
   <img align="center" alt="RMySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="RPostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="RMongoDB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
+  <img align="center" alt="RNextJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
 </div>
 
 ---
@@ -18,7 +19,7 @@
 - **Dominio**:
   - C# / .NET / Python / Django / Flask
   - MySQL / PostgreSQL / MongoDB
-  - React JS / JavaScript / Typescript
+  - React JS / JavaScript / Typescript / NextJS
   - Git / SCRUM / Docker / Zabbix / Wazuh / Prometheus / Grafana / Consul / Virtualizadores / Hipervisor 
   - Ubuntu/Linux 
 - **Conhecimento**:
