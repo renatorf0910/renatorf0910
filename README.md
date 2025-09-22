@@ -19,7 +19,7 @@
   - C# / .NET / Python / Django / Flask
   - MySQL / PostgreSQL / MongoDB
   - React JS / JavaScript / Typescript / NextJS
-  - Git / SCRUM / Docker / Zabbix / Wazuh / Prometheus / Grafana / Consul / Virtualizadores / Hipervisor 
+  - Git / SCRUM / Docker / Zabbix / Wazuh / Prometheus / Grafana / Consul / Virtualizers / Hipervisor 
   - Ubuntu/Linux 
 - **Conhecimento**:
   - Devops 
